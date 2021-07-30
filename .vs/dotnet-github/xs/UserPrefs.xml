@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{90F84754-B18B-4DC2-8FC8-00012A1EB822}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnet-github/Pages/Index.cshtml">
+    <Files>
+      <File FileName="dotnet-github/Program.cs" Line="16" Column="1" />
+      <File FileName="dotnet-github/Pages/Index.cshtml" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet-github" expanded="True">
+            <Node name="dotnet-github" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dotnet-github PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
